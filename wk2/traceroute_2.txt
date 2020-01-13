@@ -1,0 +1,15 @@
+C:\Users\101145593>tracert 159.203.47.142
+
+Tracing route to 159.203.47.142 over a maximum of 30 hops
+
+  1    <1 ms    <1 ms    <1 ms  10.10.105.251
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     1 ms    <1 ms     1 ms  159.203.47.142
+
+Trace complete.
+
+C:\Users\101145593>
