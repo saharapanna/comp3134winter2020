@@ -1,0 +1,3 @@
+What you see on the browser (the issue)
+• What tactic subcategory this issue would be categorized as
+• What sensitive information is given by this page

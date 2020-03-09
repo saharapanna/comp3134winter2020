@@ -1,0 +1,2 @@
+What you see on the browser (the issue)
+• What sensitive information is given by this page
