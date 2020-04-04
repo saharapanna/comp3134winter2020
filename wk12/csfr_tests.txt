@@ -1,0 +1,1 @@
+When using csfr_form.php: Redirects directly to csfr_action.php with correct credentials (Access successful) and shows the form.
