@@ -1,2 +1,5 @@
 What you see on the browser (the issue)
-• What sensitive information is given by this page
+- Answer: the browser shows the contents of the /var/www folder including the html directory which goes up one directory from the html directory.
+
+What sensitive information is given by this page
+- Answer: this page can be attacked by a attacker by injecting special characters in the query string, attacker could navigate into all the web files contained on this server
