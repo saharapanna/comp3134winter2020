@@ -1,2 +1,5 @@
 What you see on the browser (the issue)
-• What sensitive information is given by this page
+- Answer: The entire directory is shown includint the root directory.
+
+What sensitive information is given by this page
+- Answer: Attacker can possibly get access to the content of web root folder content, this includes the web cache, backups, and other senstive files/folders
