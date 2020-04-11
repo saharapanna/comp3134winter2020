@@ -1,3 +1,8 @@
 What you see on the browser (the issue)
-• What tactic subcategory this issue would be categorized as
-• What sensitive information is given by this page
+- Answer: there is a blank white screen, the directory traversal is no longer shown with this query string
+
+What tactic subcategory this issue would be categorized as
+- Answer: The tactic subcategory this issue would be categorized as Directory Traversal as a way to attack the web server
+
+What sensitive information is given by this page
+- Answer: this can be used for a directory traversal attack. The attacker can inject JavaScript in the search bar.
