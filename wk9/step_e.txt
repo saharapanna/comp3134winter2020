@@ -1,0 +1,2 @@
+To mitigate the issue of directories above html, we can check the 'basename()' by string query
+
