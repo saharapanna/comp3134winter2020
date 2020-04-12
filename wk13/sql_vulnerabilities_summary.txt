@@ -1,0 +1,17 @@
+G)
+
+Ben  : Write your observations. Are they as expected? Explain in your own words what occurred
+
+Answer: The result appeared as expected. Ben did not returned anything because the active number is '0'
+
+
+
+Ben’--  : Write your observations. Are they as expected? Explain in your own words what occurred. 
+
+
+Answer: Does not return anything.
+
+
+Ben’ or 1=1  : Write your observations. Are they as expected? Explain in your own words what occurred. 
+
+Answer: This returns the name only the name as I did not expected 
