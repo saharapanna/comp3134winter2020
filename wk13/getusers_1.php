@@ -10,7 +10,7 @@ if (mysqli_connect_errno())
     echo "Failed to connect to the database: " . mysqli_connect_error();
 
 if (isset($_GET["submit"])){
-   $result=mysqli_query($link, "SELECT * FROM users WHERE firstname LIKE '" . $_GET['input'] . "' AND active LIKE 1");
+   $result=mysqli_query($link, "SELECT * FROM users WHERE firstname LIKE '" . $_GET['input'] . "' AND active AS 1");
     echo "<table border='2' cellspacing='10'>
     <tr>
     <th>First Name</th>
