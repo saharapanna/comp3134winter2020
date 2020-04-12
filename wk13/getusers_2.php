@@ -1,4 +1,4 @@
-  GNU nano 2.9.3                                                                  getusers_1.php
+// Sahara
 
 <form method="GET">
     <input type=text name=input>
